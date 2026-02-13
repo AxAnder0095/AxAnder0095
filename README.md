@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Alexander Brown
 
-<!--
-**AxAnder0095/AxAnder0095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer / Full-Stack Developer in training
+passionate about building clean, responsive and user-focused web applications.
 
-Here are some ideas to get you started:
+I mostly use React.js when working with front end framworks and Framer Motion for animation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tool I use most for wireframes is Figma.
+
+## ⛏️ Tools
+- React, SCSS, Axios, Python
+- Figma, Framer Motion
+- Vercel, Postman, Supabase  
+
+## 📚 Currently Learning
+
+- Advanced React patterns
+- Backend architecture
+- UI/UX design
+- Backend Frameworks
+
+## 🎯 Future Goals
+
+- Land a junior developer role
+- Deepen my understanding of UI/UX principles, accessibility, and design systems.
