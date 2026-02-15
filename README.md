@@ -1,17 +1,15 @@
 #  Hi, I'm Alexander Brown
 
-I'm a Frontend Developer / Full-Stack Developer in training
-passionate about building clean, responsive and user-focused web applications.
+I'm a Frontend Developer / Full-Stack Developer passionate 
+about building clean, responsive and user-focused web applications.
 
-I mostly use React.js when working with front end framworks and Framer Motion for animation.
-
-Tool I use most for wireframes is Figma.
+I use React.js as my main javascript framework and Figma for mockup and wireframes.
 
 ##  Tools
 - React, SCSS, Axios,
 - Node.js, Express.js
 - Figma, Framer Motion
-- Vercel, Postman, Supabase  
+- Vercel, Postman, MongoDB  
 
 ##  Future Goals
 - Land a junior developer role
