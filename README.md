@@ -11,6 +11,3 @@ I use React.js as my main javascript framework and Figma for mockup and wirefram
 - Figma, Framer Motion
 - Vercel, Postman, MongoDB  
 
-##  Future Goals
-- Land a junior developer role
-- Deepen my understanding of UI/UX principles, accessibility, and design systems.
